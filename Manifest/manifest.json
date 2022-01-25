@@ -5,10 +5,10 @@
   "id": "d55d08d9-bacb-4567-942f-afd85d632dcc",
   "packageName": "com.microsoft.teams.icebreaker",
   "developer": {
-    "name": "<company name>",
-    "websiteUrl": "<website url>",
-    "privacyUrl": "<privacy url>",
-    "termsOfUseUrl": "<terms of use url>"
+    "name": "IW",
+    "websiteUrl": "https://www.iwkoeln.de",
+    "privacyUrl": "https://www.iwkoeln.de/datenschutz.html",
+    "termsOfUseUrl": "https://www.iwkoeln.de/impressum.html"
   },
   "localizationInfo": {
     "defaultLanguageTag": "de",
@@ -72,12 +72,12 @@
   },
   "description": {
     "short": "Mystery Lunch lost jeden Monat zufällig zwei Mitarbeiterinnen oder Mitarbeiter aus, damit sie sich bei einem gemeinsamen Mittagessen kennenlernen können.",
-    "full": "Mystery Lunch ist ein niedlicher kleiner Bot, der jede Woche zufällig zwei Mitarbeiterinnen und Mitarbeiter auslost."
+    "full": "Mystery Lunch ist ein niedlicher kleiner Bot, der jede Woche zufällig zwei Mitarbeiterinnen und Mitarbeiter auslost."s
   },
-  "accentColor": "#64A2CC",
+  "accentColor": "#0069B4",
   "bots": [
     {
-      "botId": "<bot id>",
+      "botId": "57dc9189-63fd-4e24-a5da-3496f4b82689",
       "scopes": [
         "personal",
         "team"
@@ -91,6 +91,6 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<app domain>"
+    "iwmysterylunch-volcr6g55z7v6.azurewebsites.net"
   ]
 }
