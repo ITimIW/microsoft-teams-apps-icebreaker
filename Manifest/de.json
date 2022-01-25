@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
-  "name.short": "Mystery Dinner",
-  "description.short": "Mystery Dinner bringt Teammitglieder zufällig zusammen, um die Einheit zu stärken.",
-  "description.full": "Mystery Dinner ist ein niedlicher kleiner Bot, der jede Woche zufällig Teammitglieder zusammenbringt, um dem Team zu helfen, Vertrauen und persönliche Verbindungen aufzubauen."
+  "name.short": "Mystery Lunch",
+  "description.short": "Mystery Lunch bringt Teammitglieder zufällig zusammen, um die Einheit zu stärken.",
+  "description.full": "Mystery Lunch ist ein niedlicher kleiner Bot, der jede Woche zufällig Teammitglieder zusammenbringt, um dem Team zu helfen, Vertrauen und persönliche Verbindungen aufzubauen."
 }
