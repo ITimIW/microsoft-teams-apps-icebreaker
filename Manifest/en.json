@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
-  "name.short": "Mystery Dinner",
-  "description.short": "Mystery Dinner is a bot that randomly pairs team members up to build team unity.",
-  "description.full": "Mystery Dinner is a cute little bot that randomly pairs team members up to help the team build trust and personal connections."
+  "name.short": "Mystery Lunch",
+  "description.short": "Mystery Lunch is a bot that randomly pairs team members up to build team unity.",
+  "description.full": "Mystery Lunch is a cute little bot that randomly pairs team members up to help the team build trust and personal connections."
 }
