@@ -71,8 +71,8 @@
     "short": "Mystery Lunch"
   },
   "description": {
-    "short": "Mystery Lunch lost jeden Monat zufällig zwei Mitarbeiterinnen oder Mitarbeiter aus, damit sie sich bei einem gemeinsamen Mittagessen kennenlernen können.",
-    "full": "Mystery Lunch ist ein niedlicher kleiner Bot, der jede Woche zufällig zwei Mitarbeiterinnen und Mitarbeiter auslost."
+    "short": "Mystery Lunch - Auslosung zum Kennenlernen im IW.",
+    "full": "Mystery Lunch ist ein niedlicher kleiner Bot, der jeden Monat zufällig zwei Mitarbeiterinnen und Mitarbeiter auslost."
   },
   "accentColor": "#0069B4",
   "bots": [
