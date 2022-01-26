@@ -1,30 +1,30 @@
 {
   "subscriptionId": {
-    "Value": "<<value>>",
+    "Value": "46b536c1-ddc1-458c-ade2-14867b050320",
     "Description": "Azure Subscription ID. All resources in an Azure subscription are billed together."
   },
   "subscriptionTenantId": {
-    "Value": "<<value>>",
+    "Value": "88a652ee-24e5-48fe-95f6-2bd7c67bc5db",
     "Description": "Id of the tenant to deploy to (If you are not sure how to get Tenant ID, please check Azure Active Directory in Azure Portal. Under Manage, click Properties. The tenant ID is shown in the Directory ID box). e.g 98f3ece2-3a5a-428b-aa4f-4c41b3f6eef0. Tenant ID is also in the \"Overview\" section\""
   },
   "resourceGroupName": {
-    "Value": "<<value>>",
+    "Value": "RG-Infrastruktur",
     "Description": "Resource Group"
   },
   "location": {
-    "Value": "<<value>>",
+    "Value": "West Europe",
     "Description": "The Azure region that's right for you and your customers. Not every resource is available in every region."
   },
   "baseResourceName": {
-    "Value": "<<value>>",
+    "Value": "IWMysteryLunch",
     "Description": "The base name to use for the resources that will be provisioned."
   },
   "tenantId": {
-    "Value": "<<value>>",
+    "Value": "88a652ee-24e5-48fe-95f6-2bd7c67bc5db",
     "Description": "Tenant Id where the teams application will be installed. If the Azure subscription is in the same tenant, update with \"subscriptionTenantId\" parameter value."
   },
   "pairingWeekInterval": {
-    "Value": "1",
+    "Value": "4",
     "Description": "The number of weeks between pairings."
   },
   "pairingDayOfWeek": {
@@ -48,7 +48,7 @@
     "Description": "The pricing tier for the hosting plan."
   },
   "defaultCulture": {
-    "Value": "<<value>>",
+    "Value": "de",
     "Description": "Default culture. You can select default culture from the following: en, ar, de, es, fr, he, ja, ko, pt-BR, ru, zh-CN, zh-TW"
   },
   "planSize": {
@@ -56,7 +56,7 @@
     "Description": "The size of the hosting plan (small - 1, medium - 2, or large - 3). Default value: 1"
   },
   "gitRepoUrl": {
-    "Value": "https://github.com/OfficeDev/microsoft-teams-apps-icebreaker.git",
+    "Value": "https://github.com/ITimIW/microsoft-teams-apps-icebreaker.git",
     "Description": "The URL to the GitHub repository to deploy."
   },
   "gitBranch": {
@@ -64,11 +64,11 @@
     "Description": "The branch of the GitHub repository to deploy."
   },
   "appDisplayName": {
-    "Value": "Icebreaker",
+    "Value": "Mystery Lunch",
     "Description": "The app (and bot) display name."
   },
   "appDescription": {
-    "Value": "Icebreaker is a cute little bot that randomly pairs team members up every week to help the team build trust and personal connections.",
+    "Value": "Mystery Lunch",
     "Description": "The app (and bot) description."
   },
   "appIconUrl": {
@@ -76,19 +76,19 @@
     "Description": "The link to the icon for the app. It must resolve to a PNG file."
   },
   "companyName": {
-    "Value": "<<value>>",
+    "Value": "IW",
     "Description": "The display name for the company."
   },
   "websiteUrl": {
-    "Value": "<<value>>",
+    "Value": "https://www.iwkoeln.de",
     "Description": "The https:// URL to the company's website. This link should take users to your company or product-specific landing page."
   },
   "privacyUrl": {
-    "Value": "<<value>>",
+    "Value": "https://www.iwkoeln.de/datenschutz.html",
     "Description": "The https:// URL to the company's privacy policy."
   },
   "termsOfUseUrl": {
-    "Value": "<<value>>",
+    "Value": "https://www.iwkoeln.de/impressum.html",
     "Description": "The https:// URL to the company's terms of use."
   }
 }
