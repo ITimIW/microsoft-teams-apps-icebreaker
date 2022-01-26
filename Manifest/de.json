@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
   "name.short": "Mystery Lunch",
-  "description.short": "Mystery Lunch lost jeden Monat zufällig zwei Mitarbeiterinnen oder Mitarbeiter aus, damit sie sich bei einem gemeinsamen Mittagessen kennenlernen können.",
-  "description.full": "Mystery Lunch ist ein niedlicher kleiner Bot, der jede Woche zufällig zwei Mitarbeiterinnen und Mitarbeiter auslost."
+  "description.short": "Mystery Lunch - Auslosung zum Kennenlernen im IW",
+  "description.full": "Mystery Lunch ist ein niedlicher kleiner Bot, der jeden Monat zufällig zwei Mitarbeiterinnen und Mitarbeiter zum Kennenlernen auslost."
 }
