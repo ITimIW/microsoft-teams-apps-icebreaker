@@ -28,7 +28,7 @@
     "Description": "The number of weeks between pairings."
   },
   "pairingDayOfWeek": {
-    "Value": "Monday",
+    "Value": "Wednesday",
     "Description": "The day of the week when pairings are created."
   },
   "pairingHour": {
